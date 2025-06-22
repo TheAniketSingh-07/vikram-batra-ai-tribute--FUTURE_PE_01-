@@ -46,5 +46,83 @@ As part of this AI-powered content challenge, I selected Captain Vikram Batra (P
 ---
 
 
+vikram-batra-ai-tribute/
+├── README.md
+├── script/
+│ ├── final_script.txt
+│ └── short_script.txt
+├── prompts/
+│ ├── script_prompt.txt
+│ ├── thumbnail_prompt.txt
+│ └── video_scene_prompts.txt
+├── visuals/
+│ ├── thumbnail.png
+│ └── gif_tribute.gif
+├── video/
+│ └── final_video_link.txt
+├── tools-used.md
+└── credits.md
+
+
+
+## 📜 Prompts Used
+
+All the AI prompts I crafted and used for scripting, thumbnail generation, and scene planning are saved in the `prompts/` folder.
+
+Sample prompt example:
+> “Write a gripping 30-second documentary-style intro about Captain Vikram Batra’s bravery during the Kargil War.”
+
+These prompts demonstrate my thought process and creativity as a Prompt Engineer.
+
+---
+
+## 🎬 Final Deliverables
+
+| Deliverable         | Location or Link                          |
+|---------------------|--------------------------------------------|
+| 🎥 Final Video       | [Watch Video](www.youtube.com/@theaniketsingh07)  |
+| 📜 Full Script       | [`script/final_script.txt`](script/final_script.txt) |
+| 🖼️ Thumbnail Image   | [`visuals/thumbnail.png`](visuals/thumbnail.png) |
+| 💬 Prompts Used      | [`prompts/`](prompts/) |
+| ⚙️ Tools Overview    | [`tools-used.md`](tools-used.md) |
+| 🙏 Acknowledgements  | [`credits.md`](credits.md) |
+
+---
+
+## 🎯 Outcomes
+
+- Honored the life and legacy of a national hero using AI storytelling.
+- Demonstrated advanced prompt engineering for real-world content.
+- Gained hands-on experience in AI scriptwriting, thumbnail design, and video generation.
+- Successfully delivered an emotional, cinematic experience using GenAI tools.
+
+---
+
+## 👨‍💻 About the Creator
+
+**Aniket Singh**  
+🎓 Prompt Engineering Intern – Future Interns  
+📌 Passionate about GenAI, Indian heroes, and digital storytelling  
+🔗 [LinkedIn](https://linkedin.com/in/aniket-singh7as) 
+
+---
+
+## 🙌 Tribute
+
+This project is a humble salute to **Captain Vikram Batra**, Param Vir Chakra awardee.  
+He laid down his life during the 1999 Kargil War to protect our nation.  
+His bravery, sacrifice, and words — *“Yeh Dil Maange More”* — will live forever.
+
+**Jai Hind 🇮🇳**
+
+---
+
+## 🛡 License
+
+This project is strictly for educational, inspirational, and non-commercial use.  
+All imagery and content are respectfully used under **fair-use** for tribute purposes.
+
+
+
 
 
