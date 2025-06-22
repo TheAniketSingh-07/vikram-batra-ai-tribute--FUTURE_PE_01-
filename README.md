@@ -46,22 +46,7 @@ As part of this AI-powered content challenge, I selected Captain Vikram Batra (P
 ---
 
 
-vikram-batra-ai-tribute/
-├── README.md
-├── script/
-│ ├── final_script.txt
-│ └── short_script.txt
-├── prompts/
-│ ├── script_prompt.txt
-│ ├── thumbnail_prompt.txt
-│ └── video_scene_prompts.txt
-├── visuals/
-│ ├── thumbnail.png
-│ └── gif_tribute.gif
-├── video/
-│ └── final_video_link.txt
-├── tools-used.md
-└── credits.md
+
 
 
 
@@ -81,8 +66,8 @@ These prompts demonstrate my thought process and creativity as a Prompt Engineer
 | Deliverable         | Location or Link                          |
 |---------------------|--------------------------------------------|
 | 🎥 Final Video       | [Watch Video](www.youtube.com/@theaniketsingh07)  |
-| 📜 Full Script       | [`script/final_script.txt`](script/final_script.txt) |
-| 🖼️ Thumbnail Image   | [`visuals/thumbnail.png`](visuals/thumbnail.png) |
+| 📜 Full Script       | [`script/final_script.txt`](final_script.txt.txt) |
+| 🖼️ Thumbnail Image   | [`visuals/thumbnail.png`](Thumbnails & Visuals/) |
 | 💬 Prompts Used      | [`prompts/`](prompts/) |
 | ⚙️ Tools Overview    | [`tools-used.md`](tools-used.md) |
 | 🙏 Acknowledgements  | [`credits.md`](credits.md) |
