@@ -1,5 +1,8 @@
 # Vikram-batra-tribute (FUTURE_PE_01)
 An AI-powered video documentary tribute to Captain Vikram Batra, created as part of a Prompt Engineering Internship using ChatGPT, InVideo, DALL·E. and Canva....
+<p align="center">
+  <img src="Tbhmbnails & Visuals/Kargil_Hero_Untold_Story_51436f68-6983-43ae-9d71-10815af1f336.png" width="100%"/> 
+</p>
 
 AI-Powered Tribute to Captain Vikram Batra (Kargil Hero)
 
