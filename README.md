@@ -1,4 +1,4 @@
-# vikram-batra-ai-tribute (FUTURE_PE_01)
+# Vikram-batra-tribute (FUTURE_PE_01)
 An AI-powered video documentary tribute to Captain Vikram Batra, created as part of a Prompt Engineering Internship using ChatGPT, InVideo, DALL·E. and Canva....
 
 AI-Powered Tribute to Captain Vikram Batra (Kargil Hero)
